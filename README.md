@@ -12,4 +12,3 @@ This project is used at class.
 # Project
 ![](https://i.imgur.com/WMLgFmp.png)
 
-- [ ]購買
