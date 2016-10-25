@@ -26,9 +26,3 @@ This project is used at class.
 - 管理專題生的專題資料
 - 把每次投票定義成活動
   - **年度、時程**
-
-
-
-    
-    
-
