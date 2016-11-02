@@ -17,6 +17,8 @@ This project is used at class.
 在原有的實務專題檢索系統中加入一個投票系統
 讓系上教授與學生可以在一定期間內對自己喜歡的專題題目投票
 
+![](http://i.imgur.com/RFvZkEz.jpg)
+
 1. 原專題檢索系統的新增、查詢、修改
 
 2. 投票系統
@@ -31,6 +33,6 @@ This project is used at class.
 - 管理專題生的專題資料
 - 把每次投票定義成活動
   - **年度、時程**
- # 個案圖
+# 個案圖
 ![](https://i.imgur.com/f8RGi10.jpg)
 ![](https://i.imgur.com/fZ1kUud.jpg)
