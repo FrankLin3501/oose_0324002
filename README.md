@@ -18,6 +18,7 @@ This project is used at class.
 讓系上教授與學生可以在一定期間內對自己喜歡的專題題目投票
 
 ![](http://i.imgur.com/RFvZkEz.jpg)
+![](http://i.imgur.com/lfrUy95.png)
 
 1. 原專題檢索系統的新增、查詢、修改
 
