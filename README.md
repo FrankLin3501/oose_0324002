@@ -38,3 +38,6 @@ This project is used at class.
 ## 個案圖
 ![](https://i.imgur.com/f8RGi10.jpg)
 ![](https://i.imgur.com/fZ1kUud.jpg)
+
+## 強韌圖
+![](http://i.imgur.com/csTjnR3.png)
