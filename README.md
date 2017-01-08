@@ -41,3 +41,9 @@ This project is used at class.
 
 ## 強韌圖
 ![](http://i.imgur.com/csTjnR3.png)
+
+
+4. 工作分配
+- 康皓 0324084 43% 介面設計
+- 林典儒 0324002 43% 系統設計
+- 廖曾泓 0324067 14%  周邊例行事務整合與報告
